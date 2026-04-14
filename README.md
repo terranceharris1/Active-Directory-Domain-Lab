@@ -27,3 +27,7 @@ Built and configured a Windows Server domain environment using virtualization to
 - Domain joining and authentication
 - Group policy basics
 - Troubleshooting domain connectivity issues
+![Virtual Machine](Virtual-Machine.PNG)
+![Domain Setup](Domain-Controller.PNG)
+![AD Users](AD-Domain.PNG)
+![Domain Join](Login-Domain.PNG)
